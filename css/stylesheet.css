@@ -87,3 +87,6 @@ a {
   color: white;
   border-radius: 5px;
 }
+button:hover {
+  background-color: #1c6ea4;
+}
